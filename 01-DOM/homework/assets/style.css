@@ -94,7 +94,7 @@ body {
   width: 90%;
 }
 .completeText {
-  color: lightgrey;
+  color: rgb(39, 16, 145);
   text-decoration: line-through;
 }
 
